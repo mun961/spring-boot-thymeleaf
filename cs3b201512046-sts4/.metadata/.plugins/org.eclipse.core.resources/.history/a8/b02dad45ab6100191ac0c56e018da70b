@@ -1,0 +1,5 @@
+package iducs.domain;
+
+public class User {
+
+}
